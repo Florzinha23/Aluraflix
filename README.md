@@ -1,2 +1,0 @@
-# Aluraflix
-projeto do alura
